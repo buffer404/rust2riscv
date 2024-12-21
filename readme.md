@@ -16,3 +16,5 @@
 
 #### Запуск
 ``` python3 Driver.py input.txt```
+
+Для запуска и отладки программы используется симулятор Venus: https://www.kvakil.me/venus/
